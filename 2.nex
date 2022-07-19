@@ -1,0 +1,36 @@
+#NEXUS
+
+Begin data;
+Dimensions ntax=27 nchar=1;
+Format datatype=Standard symbols="0123" missing=? gap=-;
+Matrix
+Asturicystis_havliceki   0
+Asturicystis_jaekeli   -
+Ctenocystis_utahensis   ?
+Davidocinctus_pembrokensis   ?
+Elliptocinctus_barrandei   0
+Elliptocinctus_vizcainoi   -
+Graciacystis_ambigua   0
+Gyrocystis_badulesiensis   -
+Gyrocystis_cruzae   ?
+Gyrocystis_erecta   -
+Gyrocystis_platessa   -
+Gyrocystis_testudiformis   -
+Lignanicystis_barriosensis   0
+Ludwigicinctus_truncatus   -
+Nelegerocystis_ivantzovi   ?
+Progyrocystis_disjuncta   -
+Protocinctus_mansillaensis   -
+Rozanovicystis_triangularis   ?
+Sotocinctus_ubaghsi   -
+Sucocystis_acrofera   -
+Sucocystis_bretoni   0
+Sucocystis_theronensis   0
+Trochocystites_bohemicus   0
+Trochocystoides_parvus   -
+Undatacinctus_melendezi   -
+Undatacinctus_quadricornuta   -
+Undatacinctus_undata   -
+;
+End;
+

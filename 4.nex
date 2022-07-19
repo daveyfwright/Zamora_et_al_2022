@@ -1,0 +1,33 @@
+#NEXUS
+
+Begin data;
+Dimensions ntax=24 nchar=28;
+Format datatype=Standard symbols="0123" missing=? gap=-;
+Matrix
+Asturicystis_havliceki   0?001100022202222012?1122210
+Asturicystis_jaekeli   12000100000000000000?2122222
+Ctenocystis_utahensis   000?0?00000000000???02??????
+Elliptocinctus_barrandei   (0 1)10(1 2)(0 1 2)000222010222022?1012210
+Elliptocinctus_vizcainoi   0?010?000220102??022?001221?
+Graciacystis_ambigua   0200(0 1)00000022200001012102210
+Gyrocystis_badulesiensis   12000100011010110022?0001200
+Gyrocystis_cruzae   1?000000?00010000012?0001200
+Gyrocystis_erecta   1??00100??????????22??001200
+Gyrocystis_platessa   1100(0 1)00000000000001221001200
+Gyrocystis_testudiformis   0100000000001000001221001200
+Lignanicystis_barriosensis   1201100022201022201212012210
+Ludwigicinctus_truncatus   1?010100022222222202?0012200
+Progyrocystis_disjuncta   0?10000000000000000102001200
+Protocinctus_mansillaensis   0?200100002220000002?2?12200
+Sotocinctus_ubaghsi   1?0(0 1)010000000000000002122221
+Sucocystis_acrofera   2?010100022010222012?0012221
+Sucocystis_bretoni   1111(0 1)100022010222012?0012200
+Sucocystis_theronensis   111(0 1)(0 1 2)100222010222012?0012200
+Trochocystites_bohemicus   110(1 2)(0 1)20022200022200112222222
+Trochocystoides_parvus   1000010000220022000??2222222
+Undatacinctus_melendezi   1?010111022010222002?0012210
+Undatacinctus_quadricornuta   1?010122022222222002?0012210
+Undatacinctus_undata   1?01011102201022200??0012210
+;
+End;
+
